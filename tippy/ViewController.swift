@@ -33,7 +33,8 @@ class ViewController: UIViewController {
         
         let tipPercentages = [0.10, 0.15, 0.20]
         
-        let bill = Double(billField.text!) ?? 0 // ?? 0 makes sure anything else is returned a nil
+        let bill = Double(billField.text!) ?? 0
+        
         
         //to do: throw errors when negative number
         let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
