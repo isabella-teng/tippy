@@ -44,7 +44,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
-- [Imgur](http://i.imgur.com/1hV0Sn7.gifv)
+- [Imgur] (http://imgur.com/Cc9Vfdj)
 
 
 ## License
