@@ -32,13 +32,11 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
-[Imgur](http://i.imgur.com/1hV0Sn7.gifv)
-
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-I had trouble with the default settings, with linking elements.
+I had trouble with the default settings.
 
 ## Credits
 
@@ -46,9 +44,12 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
+- [Imgur](http://i.imgur.com/1hV0Sn7.gifv)
+
+
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2017] [Isabella Teng]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
