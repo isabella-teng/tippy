@@ -34,13 +34,17 @@ class SettingsViewController: UIViewController {
     
     @IBOutlet weak var defaultSettingsBar: UISegmentedControl!
     
-    @IBAction func changeDefaultPercentage(_ sender: Any) {
+    @IBAction func setDefaultPercentage(_ sender: Any) {
         
         let defaults = UserDefaults.standard
-        defaults.set(defaultSettingsBar.selectedSegmentIndex, forKey: "default_tip_index")
+        //        defaultSettingsBar.selectedSegmentIndex = -1;
+        defaults.set(1, forKey: "default_tip_index")
+        //        print(defaultSettingsBar.selectedSegmentIndex)
         defaults.synchronize()
+
+        
+        
     }
-    
-    @IBOutlet weak var newDefault: UITextField!
+   
 
 }

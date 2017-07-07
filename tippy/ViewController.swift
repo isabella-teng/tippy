@@ -35,7 +35,6 @@ class ViewController: UIViewController {
         
         let bill = Double(billField.text!) ?? 0
         
-        
         //to do: throw errors when negative number
         let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
         let total = bill + tip
@@ -53,12 +52,13 @@ class ViewController: UIViewController {
         let defaults = UserDefaults.standard
         let tipValue = defaults.integer(forKey: "default_tip_index")
         
-        tipControl.selectedSegmentIndex = Int(tipValue)
+        tipControl.selectedSegmentIndex = tipValue
         
-//        let tipValue = defaults.(forKey: "default_tip_percentage")
-//        self.tipControl.selectedSegmentIndex = Int(defaults)
-//        tipPercentages[0] = double()
+        print(tipValue)
         
+//        let tipAmount =
+//        tip = bill * tipPercentages[tipControl.tipValue]
+//        [tipControl setSelectedSegmentIndex:tipValue];
         
     }
     

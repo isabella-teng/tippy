@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tippy/SettingsViewController.swift"
+            timestampString = "519696239.394139"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "SettingsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tippy.SettingsViewController.defaultSettingsBar.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISegmentedControl&gt;"
+                  moduleName = "tippy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isabellateng/Desktop/tippy/tippy/SettingsViewController.swift"
+                  timestampString = "519720972.864862"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tippy.SettingsViewController.defaultSettingsBar.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISegmentedControl&gt;"
+                  moduleName = "tippy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isabellateng/Desktop/tippy/tippy/SettingsViewController.swift"
+                  timestampString = "519720972.866497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tippy.SettingsViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; tippy.SettingsViewController"
+                  moduleName = "tippy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isabellateng/Desktop/tippy/tippy/SettingsViewController.swift"
+                  timestampString = "519720972.869028"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tippy.SettingsViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tippy.SettingsViewController&gt;"
+                  moduleName = "tippy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isabellateng/Desktop/tippy/tippy/SettingsViewController.swift"
+                  timestampString = "519720972.870924"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tippy/SettingsViewController.swift"
+            timestampString = "519720354.23553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "SettingsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tippy.SettingsViewController.defaultSettingsBar.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISegmentedControl&gt;"
+                  moduleName = "tippy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isabellateng/Desktop/tippy/tippy/SettingsViewController.swift"
+                  timestampString = "519720786.04237"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tippy.SettingsViewController.defaultSettingsBar.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISegmentedControl&gt;"
+                  moduleName = "tippy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isabellateng/Desktop/tippy/tippy/SettingsViewController.swift"
+                  timestampString = "519720786.043744"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tippy.SettingsViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; tippy.SettingsViewController"
+                  moduleName = "tippy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isabellateng/Desktop/tippy/tippy/SettingsViewController.swift"
+                  timestampString = "519720786.04513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tippy.SettingsViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tippy.SettingsViewController&gt;"
+                  moduleName = "tippy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isabellateng/Desktop/tippy/tippy/SettingsViewController.swift"
+                  timestampString = "519720786.046644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
